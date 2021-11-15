@@ -1,0 +1,8 @@
+.allTask{
+    width: 50%;
+    height: 80%;
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    flex-direction: column;
+}
